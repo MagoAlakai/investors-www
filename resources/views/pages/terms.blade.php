@@ -1,4 +1,4 @@
-@extends('layouts.dashboard')
+@extends('layouts.dashboard_externals')
 
 @section('content')
 <div id="terms" class="container mb-5">

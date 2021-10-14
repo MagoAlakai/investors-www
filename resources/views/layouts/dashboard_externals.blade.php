@@ -34,7 +34,7 @@
 <body>
 
   <!-- ======= Header ======= -->
-    @include('includes.header')
+    @include('includes.header_externals')
   <!-- ======= End Header ======= -->
 
   <!-- ======= Main Content ======= -->
@@ -42,7 +42,7 @@
   <!-- ======= End Main Content ======= -->
 
   <!-- ======= Footer ======= -->
-    @include('includes.footer')
+    @include('includes.footer_externals')
   <!-- ======= End Footer ======= -->
 
   <div id="preloader"></div>

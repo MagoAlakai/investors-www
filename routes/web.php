@@ -30,3 +30,7 @@ Route::get('/privacy-policy', function () {
 Route::get('/cookie-consent', function () {
     return view('pages.cookie');
 });
+
+Route::get('/GDRP', function () {
+    return view('pages.rights');
+});

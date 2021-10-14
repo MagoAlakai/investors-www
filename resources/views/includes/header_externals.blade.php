@@ -41,12 +41,12 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">{{ __( 'investors.home') }}</a></li>
-          <li><a class="nav-link scrollto" href="#featured-services">{{ __( 'investors.the_challenge') }}</a></li>
+          <li><a class="nav-link scrollto active" href="/">{{ __( 'investors.home') }}</a></li>
+          <!-- <li><a class="nav-link scrollto" href="#featured-services">{{ __( 'investors.the_challenge') }}</a></li>
           <li><a class="nav-link scrollto" href="#services">{{ __( 'investors.the_solution') }}</a></li>
           <li><a class="nav-link scrollto" href="#about-us">{{ __( 'investors.about') }}</a></li>
           <li><a class="nav-link scrollto" href="#team">{{ __( 'investors.team') }}</a></li>
-          <li><a class="nav-link scrollto" href="#contact">{{ __( 'investors.contact') }}</a></li>
+          <li><a class="nav-link scrollto" href="#contact">{{ __( 'investors.contact') }}</a></li> -->
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

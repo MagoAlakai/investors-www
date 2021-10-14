@@ -1,4 +1,4 @@
-@extends('layouts.dashboard')
+@extends('layouts.dashboard_externals')
 
 @section('content')
 <div id="privacy-policy" class="container mb-5">

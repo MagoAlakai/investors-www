@@ -12,15 +12,15 @@
 
           <h4 class="mobile-title center1 text-center">{{ __( 'investors.our_web') }}</h4>
 
-          <div class="col-lg-3 col-md-12 footer-links">
+          <div class="col-lg-3 col-md-12 footer-link ">
             <h4 class="web-title">{{ __( 'investors.our_web') }}</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i><a class="scrollto " href="#hero">{{ __( 'investors.home') }}</a></li>
-              <li><i class="bx bx-chevron-right"></i><a class="scrollto" href="#featured-services">{{ __( 'investors.the_challenge') }}</a></li>
+              <li><i class="bx bx-chevron-right"></i><a href="/">{{ __( 'investors.home') }}</a></li>
+              <!-- <li><i class="bx bx-chevron-right"></i><a class="scrollto" href="#featured-services">{{ __( 'investors.the_challenge') }}</a></li>
               <li><i class="bx bx-chevron-right"></i><a class="scrollto" href="#services">{{ __( 'investors.the_solution') }}</a></li>
               <li><i class="bx bx-chevron-right"></i><a class="scrollto" href="#about-us">{{ __( 'investors.about') }}</a></li>
               <li><i class="bx bx-chevron-right"></i><a class="scrollto" href="#team">{{ __( 'investors.team') }}</a></li>
-              <li><i class="bx bx-chevron-right"></i><a class="scrollto" href="#contact">{{ __( 'investors.contact') }}</a></li>
+              <li><i class="bx bx-chevron-right"></i><a class="scrollto" href="#contact">{{ __( 'investors.contact') }}</a></li> -->
             </ul>
           </div>
 
