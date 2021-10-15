@@ -2042,44 +2042,22 @@ COOKIE CONSENT
 
 
 /*--------------------------------------------------------------
-TEMPLATE LINKS
---------------------------------------------------------------*/
-
-/*--------------------------------------------------------------
-# Terms & Conditions
+LEGAL LINKS
 --------------------------------------------------------------*/
 
 @media (max-width: 800px) {
 
-    #terms, #privacy-policy, #rights {
+    #terms, #privacy-policy, #rights, #cookie-consent {
         width: 80%;
     }
 }
 
 @media (min-width: 801px) {
 
-    #terms, #privacy-policy, #rights{
+    #terms, #privacy-policy, #rights, #cookie-consent{
         width: 55%;
     }
 }
-
-/*--------------------------------------------------------------
-# Terms & Conditions
---------------------------------------------------------------*/
-
-/* @media (max-width: 800px) {
-
-    #privacy-policy {
-        width: 80% !important;
-    }
-}
-
-@media (min-width: 801px) {
-
-    #privacy-policy{
-        width: 55%;
-    }
-} */
 
 
 /*--------------------------------------------------------------

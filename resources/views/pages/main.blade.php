@@ -250,7 +250,7 @@
       <section id="about-us" class="d-flex align-items-center">
         <div class="container d-block align-items-center col-11 col-sm-10 col-md-8 col-lg-6 col-xl-5 col-xxl-5 text-center text-justify justify-content-center" data-aos="fade-up" data-aos-delay="100">
             <h2 class="text-center text-justify mb-4" data-aos="zoom-out"><strong>{{ __( 'investors.about_us') }}</strong></h2>
-            <h5 class="text-center text-justify mb-4" data-aos="zoom-out">{{ __( 'investors.our_mission') }}</h5>
+            <h5 class="text-center text-justify mb-5" data-aos="zoom-out">{{ __( 'investors.our_mission') }}</h5>
 
             <div class="mb-5" style="padding:56.25% 0 0 0;position:relative;" data-aos="fade-up">
                 <iframe src="https://player.vimeo.com/video/607334366?h=177f2443c5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Introduction to MergeLabs by Ali Taghavi"></iframe>
