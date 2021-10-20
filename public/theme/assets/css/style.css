@@ -961,7 +961,7 @@ section {
     #services {
         width: 100%;
         height: 100%;
-        background: url("../../../assets/icons/fondo4_tablet2.png") no-repeat scroll;
+        background: url("../../../assets/backgrounds/ML_assets_lightblue_small.png") no-repeat scroll;
         background-size: 100% 100%;
         position: relative;
         color: #F6F6F6;
@@ -973,7 +973,7 @@ section {
     #services {
       width: 100%;
       height: 100%;
-      background: url("../../../assets/backgrounds/ML_lightblue-mobile.png") scroll;
+      background: url("../../../assets/backgrounds/ML_assets_lightblue_small.png") scroll;
       background-size: 100% 100%;
       position: relative;
       color: #F6F6F6;

@@ -1,0 +1,16 @@
+name: Deploy_investors-www
+
+on:
+  branches:
+    - production
+
+jobs:
+  create-deployment-artifacts:
+    name: Create deployment artifacts
+    runs-om: ubuntu-latets
+    steps:
+      - uses: action/checkout@v2
+      - name: Compile CSS and Javascript
+        run:
+         npm install
+         npm run prod
