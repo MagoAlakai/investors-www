@@ -1,8 +1,9 @@
 name: Deploy_investors-www
 
 on:
-  branches:
-    - production
+  push:
+    branches:
+      - production
 
 jobs:
   create-deployment-artifacts:
