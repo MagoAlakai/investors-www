@@ -94,6 +94,19 @@
         </div>
 
         <div>
+            <h5 class="mb-1 m-3">{{ __( 'investors.cookie_third_XSRF_title') }}</h5>
+            <p class="mb-4 m-3">{{ __( 'investors.cookie_third_XSRF_text1') }}</p>
+            <p class="mb-4 m-3">{{ __( 'investors.cookie_third_XSRF_text2') }}</p>
+        </div>
+
+        <div>
+            <h5 class="mb-1 m-3">{{ __( 'investors.cookie_third_mailchimp_title') }}</h5>
+            <p class="mb-4 m-3">{{ __( 'investors.cookie_third_mailchimp_text1') }}</p>
+            <p class="mb-4 m-3">{{ __( 'investors.cookie_third_mailchimp_text2') }}<a href="https://mailchimp.com/legal/privacy/" target="_blank">{{ __( 'investors.cookie_third_mailchimp_text3') }}</a></p>
+            <p class="mb-4 m-3">{{ __( 'investors.cookie_third_mailchimp_text4') }}<a href="https://mailchimp.com/legal/cookies/#Cookies_served_through_our_Mailchimp_Sites" target="_blank">{{ __( 'investors.cookie_third_mailchimp_text5') }}</a></p>
+        </div>
+
+        <div>
             <h5 class="mb-1 m-3">{{ __( 'investors.cookie_third_video_title') }}</h5>
             <p class="mb-4 m-3">{{ __( 'investors.cookie_third_video_text1') }}</p>
             <p class="mb-4 m-3">{{ __( 'investors.cookie_third_video_text2') }}<a href="https://www.google.de/intl/de/policies/privacy/" target="_blank">{{ __( 'investors.cookie_third_video_text3') }}</a>{{ __( 'investors.cookie_third_video_text4') }}<a href="https://vimeo.com/privacy" target="_blank">{{ __( 'investors.cookie_third_video_text5') }}</a></p>

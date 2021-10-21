@@ -18,6 +18,7 @@ Route::get('/', function () {
     return view('pages.main');
 });
 
+
 //External legal pages
 Route::get('/terms&conditions', function () {
     return view('pages.terms');

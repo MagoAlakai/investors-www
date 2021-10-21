@@ -326,7 +326,7 @@
                 <h3>Mads</h3>
                 <h4>Part-time Developer</h4>
                 <div class="social mt-3">
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/madsbaadsmand/" target="_blank"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
 
@@ -337,7 +337,7 @@
                 <h3>Benedikt</h3>
                 <h4>Communication Advisor</h4>
                 <div class="social mt-3 mb-2">
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/benedikt-jockenh%C3%B6fer-5a540975/" target="_blank"><i class="bi bi-linkedin"></i></a>
                 </div>
               </div>
 
@@ -417,7 +417,7 @@
                   <h3 class="name">Mads</h3>
                   <h4 class="job">Part-time Developer</h4>
                   <div class="social-mobile mt-3">
-                      <a href=""><i class="bi bi-linkedin"></i></a>
+                    <a href="https://www.linkedin.com/in/madsbaadsmand/" target="_blank"><i class="bi bi-linkedin"></i></a>
                   </div>
                 </div>
               </div>
@@ -430,7 +430,7 @@
                   <h3 class="name">Benedikt</h3>
                   <h4 class="job">Communication Advisor</h4>
                   <div class="social-mobile mt-3 mb-2">
-                      <a href=""><i class="bi bi-linkedin"></i></a>
+                  <a href="https://www.linkedin.com/in/benedikt-jockenh%C3%B6fer-5a540975/" target="_blank"><i class="bi bi-linkedin"></i></a>
                   </div>
                 </div>
 
