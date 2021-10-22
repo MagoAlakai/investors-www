@@ -8,7 +8,7 @@
             <div class="d-flex align-items-center mt-3 mr-3">
                 <p class="p-2">{{ __( 'investors.top_bar_laptop') }}</p>
             </div>
-            <i class="bi bi-envelope d-flex align-items-center p-2"><a href="#contact">info@mergelabs.com</a></i>
+            <i class="bi bi-envelope d-flex align-items-center p-2"><a class="nav-link scrollto" href="/#contact">info@mergelabs.com</a></i>
           </div>
 
       </div>
@@ -19,7 +19,7 @@
             <div class="d-flex align-items-center mt-3 mr-3">
                 <a href="#contact"><p class="p-2">{{ __( 'investors.top_bar_mobile') }}</p></a>
             </div>
-            <a href="#contact"><i class="bi bi-envelope d-flex align-items-center p-2"></i></a>
+            <a href="/#contact"><i class="bi bi-envelope d-flex align-items-center p-2"></i></a>
           </div>
       </div>
 
@@ -39,7 +39,7 @@
 
       <a href="" class="logo"><img src="{{ asset('assets/logos/ML_Logo_wide.png') }}" alt=""></a>
 
-      <nav id="navbar" class="navbar">
+      <nav id="navbar" class="navbar navbar-mobile-links">
         <ul>
           <li><a class="nav-link scrollto active" href="/">{{ __( 'investors.home') }}</a></li>
         </ul>

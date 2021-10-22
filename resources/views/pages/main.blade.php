@@ -119,13 +119,13 @@
     <section id="services" class="services">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title mt-5" data-aos="zoom-out" data-aos-delay="100">
+        <div class="solve-title section-title mt-5" data-aos="zoom-out" data-aos-delay="100">
           <h4>{{ __( 'investors.solve_organizers') }}</h4>
         </div>
 
         <div class="row d-flex justify-content-center">
 
-          <div class="col-11 col-sm-11 col-lg-4 col-md-6 d-flex justify-content-center m-4" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-11 col-sm-11 col-lg-4 col-md-6 text-center m-4" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
               <h3><strong>{{ __( 'investors.step_1') }}</strong></h3>
               <p class="text-center text-justify solutions pt-4">{{ __( 'investors.the_engine') }}</p>
